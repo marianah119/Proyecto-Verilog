@@ -1,1 +1,1 @@
-# proyecto2
+# proyecto Arquitectura de Computadoras
